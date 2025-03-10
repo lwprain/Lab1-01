@@ -1,3 +1,2 @@
 # Lab1-01
-hello
-this is a test project
+Add README.md with my OSS contribution plan;
